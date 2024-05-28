@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Anta&family=Oswald:wght@200..700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Irish%20Grover:700|Irish%20Grover:400");
+ :root {
+                --color-primary: #303792;
+                --color-secondary: #2d3d8b;
+                --color-danger: #e3363e;
+                --primary-font: 'DM Sans', Roboto;
+                --color-warning: #ab5f1b;
+            }
+
+nav {
+  height: 6rem;
+  
+}
+
+.join{
+  height: 37rem !important;
+  background-image: url("/tour.jpg") !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+
+}
+.join p{
+    margin: 0;
+}
+
+.join .small{
+    margin: 0;
+}
+.guest{
+    margin-top: 8rem;
+    border-radius: 6px !important;
+    
+}
+.border1{
+    border-radius: 25px !important;
+    height: 3rem !important;
+   
+}
+.box{
+    height: 4rem !important;
+    border-radius: 9px !important;
+}
+.milli{
+    margin-top: 14rem;
+}
+
+.curv{
+    border-radius: 12px !important;
+     height: 9rem !important;
+}
+.marggg{
+    margin-top: 10rem !important;
+}
+.high{
+    height: 18rem !important ;
+}
