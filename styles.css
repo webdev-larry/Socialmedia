@@ -44,6 +44,7 @@ nav {
 .box{
     height: 4rem !important;
     border-radius: 9px !important;
+    background-color: white;
 }
 .milli{
     margin-top: 14rem;
@@ -58,4 +59,7 @@ nav {
 }
 .high{
     height: 18rem !important ;
+}
+.bread{
+    
 }
